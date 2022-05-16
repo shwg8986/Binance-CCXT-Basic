@@ -1,4 +1,4 @@
 # Binance 先物 CCXTライブラリの基本
 
-CCXTライブラリを用いたBinance Perpetual Futureでの自動売買で必須とも言える操作をまとめたPythonのプログラムになります。
+CCXTライブラリを用いたBinance Perpetual Futureでの自動売買で必須操作をまとめたPythonのプログラムになります。
 汎用性を重視しているため、自分なりに関数にしているものが多いですがその点はご容赦ください。
